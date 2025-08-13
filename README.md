@@ -101,3 +101,4 @@ LDraw&trade; is a trademark owned and licensed by the Estate of James Jessiman. 
 <a href="https://www.lego.com/"><img align="left" src="./images/logos/lego.jpg" alt="LEGO logo" style="margin: 0px 10px 0px 0px;"/></a>
 
 **LEGO**® is a registered trademark of the Lego Group<br clear=left>
+
